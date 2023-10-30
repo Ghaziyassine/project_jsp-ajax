@@ -77,7 +77,7 @@ Ce projet vise à créer une application web de gestion de machines et de marque
 ## Déploiement
 
 1. Clônez ce référentiel sur votre ordinateur.
-2. Assurez-vous d'avoir un serveur web configuré (comme Apache Tomcat) pour exécuter l'application.
+2. Assurez-vous d'avoir un serveur web configuré (comme GlassFish ) pour exécuter l'application.
 3. Importez le projet dans votre environnement de développement Java.
 4. Configurez les informations de connexion à la base de données dans le fichier `hibernate.cfg.xml`.
 5. Déployez le projet sur votre serveur web.
