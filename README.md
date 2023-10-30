@@ -58,7 +58,7 @@ Ce projet vise à créer une application web de gestion de machines et de marque
 ![image](https://github.com/Ghaziyassine/TP-AJAX-2/assets/114885285/2a6a9d03-15b6-41a1-95ef-219eba796b9d)
 
 ### -Gestion des Machines par Référence:
-![image](https://github.com/Ghaziyassine/TP-AJAX-2/assets/114885285/d5869072-a6ba-47e0-b35c-e603fa7b60d5)
+![image](https://github.com/Ghaziyassine/TP-AJAX-2/assets/114885285/972a2e7a-65c1-4957-a7d2-89d9e0d4bd9e)
 
 ## Déploiement
 
