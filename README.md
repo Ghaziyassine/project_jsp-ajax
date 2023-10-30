@@ -40,7 +40,7 @@ Ce projet vise à créer une application web de gestion de machines et de marque
 ![image](https://github.com/Ghaziyassine/TP-AJAX-2/assets/114885285/4b232bfc-ee0c-4931-bf62-93125f64d2c4)
 
 ### -Gestion des Etudiants:
-![image](https://github.com/Ghaziyassine/TP-AJAX-2/assets/114885285/0c652ba3-616a-4caa-839a-ccb7abd305eb)
+![image](https://github.com/Ghaziyassine/TP-AJAX-2/assets/114885285/dbaf40d6-e3d3-4ab1-9ec2-f98cdf198a73)
 
 ### -Gestion des Marques:
 ![image](https://github.com/Ghaziyassine/TP-AJAX-2/assets/114885285/d86c2f83-a80c-4a82-b847-4d792b6eb8f4)
