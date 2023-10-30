@@ -26,6 +26,7 @@ Ce projet vise à créer une application web de gestion de machines et de marque
 - Afficher la liste des machines disponibles.
 
 ## Fonctionnalités clés
+- **Gestion des Etudiants** : Ajoutez, modifiez, supprimez et affichez des étudiants avec des informations détaillées.
 
 - **Gestion des Machines** : Ajoutez, modifiez, supprimez et affichez des machines avec des informations détaillées.
 
