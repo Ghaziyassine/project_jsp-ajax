@@ -1,7 +1,7 @@
 # TP-AJAX-2
 # Projet de Gestion des Machines
 
-![Image](your-image-url-here)
+
 
 Ce référentiel contient un projet de gestion des machines, développé avec Java et JSP, pour vous permettre de gérer des machines et des marques associées. Le projet comporte plusieurs fonctionnalités essentielles pour la gestion de ces données.
 
