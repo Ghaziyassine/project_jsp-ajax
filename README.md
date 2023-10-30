@@ -3,7 +3,7 @@
 
 
 
-Ce référentiel contient un projet de gestion des machines, développé avec Java et JSP, pour vous permettre de gérer des machines et des marques associées. Le projet comporte plusieurs fonctionnalités essentielles pour la gestion de ces données.
+Ce référentiel contient un projet de gestion des machines, développé avec Java et JSP, pour vous permettre de gérer des machines et des marques associées. Le projet comporte aussi la gestion des étudiants et plusieurs fonctionnalités essentielles pour la gestion de ces données.
 
 ## Table des matières
 
