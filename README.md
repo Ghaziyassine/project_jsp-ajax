@@ -100,7 +100,7 @@ git clone https://github.com/Ghaziyassine/TP-AJAX-2.git
 ```
 ## Auteurs
 
-- [Ghazi yassine](https://github.com/Ghaziyassine) - Développeur principal
+- [Ghazi yassine](https://github.com/Ghaziyassine) - Développeur principal © 2023
 
 
 
