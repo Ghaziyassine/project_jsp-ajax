@@ -87,8 +87,6 @@ Ce projet vise à créer une application web de gestion de machines et de marque
 ```shell
 git clone https://github.com/Ghaziyassine/TP-AJAX-2.git
 
-## Auteurs
 
-- [Ghazi yassine](https://github.com/Ghaziyassine) - Développeur principal
 
 
