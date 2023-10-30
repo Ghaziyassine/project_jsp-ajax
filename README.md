@@ -12,8 +12,9 @@ Ce référentiel contient un projet de gestion des machines, développé avec Ja
 - [Captures d'écran](#captures-décran)
 - [Déploiement](#déploiement)
 - [Utilisation](#utilisation)
-- [Installation](#installation)
 - [Auteurs](#auteurs)
+- [Installation](#installation)
+
 
 ## À propos du projet
 
@@ -75,6 +76,9 @@ Ce projet vise à créer une application web de gestion de machines et de marque
 2. Utilisez l'interface pour ajouter, modifier, supprimer et afficher des Etudiants des Machines et des Marques.
 
 3. Explorez le graphique pour visualiser le nombre de machines par marque.
+## Auteurs
+
+- [Ghazi yassine](https://github.com/Ghaziyassine) - Développeur principal
 
 ## Installation
 
