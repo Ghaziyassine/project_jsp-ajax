@@ -9,6 +9,7 @@ Ce référentiel contient un projet de gestion des machines, développé avec Ja
 
 - [À propos du projet](#à-propos-du-projet)
 - [Fonctionnalités clés](#fonctionnalités-clés)
+- [Technologies Utilisées](#technologies-utilisées)
 - [Captures d'écran](#captures-décran)
 - [Déploiement](#déploiement)
 - [Utilisation](#utilisation)
@@ -33,6 +34,18 @@ Ce projet vise à créer une application web de gestion de machines et de marque
 - **Interaction Utilisateur** : Interface utilisateur conviviale avec des alertes pour confirmer les opérations de suppression et de modification.
 
 - **Graphiques** : Un graphique montre le nombre de machines par marque.
+
+## Technologies Utilisées
+- Java
+- JSP (JavaServer Pages)
+- Hibernate
+- MySQL (Database)
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- AJAX
+- GlassFish (Application Server)
 
 ## Captures d'écran
 ### -Home page qui presente le nombre de machine par marque avec un type de graphe choisit par l'utilisateur:
