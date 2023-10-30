@@ -1,0 +1,22 @@
+SMAP
+home_jsp.java
+JSP
+*S JSP
+*F
++ 0 home.jsp
+home.jsp
++ 1 menu.jsp
+template/menu.jsp
+*L
+1,29:54
+5#1,12:82
+29#0,8:94
+38,5:103
+42,8:108
+50,2:117
+51:119
+52,2:120,3
+54:126
+55,2:128
+56,42:130
+*E

@@ -1,0 +1,177 @@
+/* Reset some default browser styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and default font for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Style the header */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the logo */
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+/* Style the navigation menu */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    width: 200px; /* Set a fixed width for the sidebar */
+    position: fixed; /* Keep it fixed on the page */
+    top: 0;
+    left: 0;
+    height: 100%; /* Make it full height */
+    overflow: auto; /* Add scrollbars if needed */
+}
+
+li {
+    /* Remove the float property to stack list items vertically */
+}
+
+li a {
+    display: block;
+    color: #fff;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-bottom: 1px solid #555; /* Add a border to separate items */
+}
+
+/* Change the color of links on hover */
+li a:hover {
+    background-color: #555;
+    border-left: 4px solid #0074D9; /* Highlight the selected item */
+}
+
+/* Style the main content area with margin */
+.content {
+    background-color: #f9f9f9; /* Subtle gray background */
+    padding: 20px;
+    margin: 0 0 0 220px; /* Add left margin to make space for the sidebar */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Button styles */
+.bndelete, .bnupdate, .button {
+    display: inline-block;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.bndelete {
+    background-color: #e74c3c; /* Red for "Supprimer" */
+    color: #fff;
+}
+
+.bnupdate {
+    background-color: #3498db; /* Blue for "Modifier" */
+    color: #fff;
+}
+
+.button {
+    background-color: #27ae60; /* Green for "Envoyer" */
+    color: #fff;
+}
+
+.button:hover {
+    background-color: #4CAF50;
+}
+
+/* Style the "Information Etudiant" form */
+fieldset {
+    border: 2px solid #27ae60; /* Green border for the form */
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box; /* Ensure padding and border are included in the element's total width and height */
+}
+
+legend {
+    font-size: 20px;
+    color: #27ae60; /* Green color for the legend */
+}
+
+/* Update the background color for the form inputs */
+form input[type="text"],
+form input[type="date"],
+form select {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: #f9f9f9; /* Light gray background for form inputs */
+    box-sizing: border-box; /* Ensure padding and border are included in the element's total width and height */
+}
+
+/* Add spacing for the form buttons */
+form input[type="submit"] {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: #27ae60; /* Green color for "Envoyer" button */
+    color: #fff;
+}
+
+/* Style tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table,  td {
+    border: 1px solid #ccc;
+}
+
+.tab th {
+    background-color: #999999; /* Dark gray for column headers */
+    color: white;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+/* Style alerts or notifications */
+.alert {
+    padding: 15px;
+    background-color: #f44336;
+    color: #fff;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+/* Add responsive design for smaller screens */
+@media (max-width: 768px) {
+    ul {
+        width: 100%; /* Make it full width on small screens */
+    }
+    .content {
+        margin: 20px; /* Adjust margin for small screens */
+    }
+}
