@@ -1,4 +1,3 @@
-# TP-AJAX-2
 # Projet de Gestion des Machines
 
 
